@@ -31,10 +31,11 @@
 
 <table>
 <tr>
+
 <td width="45%" align="center" valign="top">
   <h3>🧠 <a href="https://github.com/Harshvardhan210/Medical-Report-Visualization">Medical Report Visualization</a></h3>
   <p><em>Streamlit • Firebase • Data Visualization</em></p>
-  <p>Real-time dashboard for medical data visualization with secure authentication and role-based access.</p>
+  <p>Real-time dashboard for visualizing patient reports with role-based access.</p>
   <a href="https://github.com/Harshvardhan210/Medical-Report-Visualization">
     <img src="https://img.shields.io/badge/View_Project-00d4ff?style=for-the-badge&logo=github&logoColor=black" />
   </a>
@@ -43,15 +44,39 @@
 <td width="45%" align="center" valign="top">
   <h3>🎮 <a href="https://github.com/Harshvardhan210/Orbion---Ball-Adventure">Orbion - Ball Adventure</a></h3>
   <p><em>Unity • C# • Game Development</em></p>
-  <p>Physics-based 3D puzzle game with smooth performance and creative level design.</p>
+  <p>Physics-based 3D puzzle game built in Unity featuring smooth gameplay and logic-based challenges.</p>
   <a href="https://github.com/Harshvardhan210/Orbion---Ball-Adventure">
     <img src="https://img.shields.io/badge/View_Project-00d4ff?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </td>
+
 </tr>
+<tr>
+
+<td width="45%" align="center" valign="top">
+  <h3>🕹️ <a href="https://github.com/Harshvardhan210/HashCamp">Adventure-Ball-Game</a></h3>
+  <p><em>Unity • C# • Game Development</em></p>
+  <p>Physics-based 3D puzzle game built in Unity featuring smooth gameplay and hard controls.</p>
+  <a href="https://github.com/Harshvardhan210/HashCamp](https://github.com/Harshvardhan210/Adventure-Ball-Game">
+    <img src="https://img.shields.io/badge/View_Project-00d4ff?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</td>
+
+<td width="45%" align="center" valign="top">
+  <h3>💹 <a href="https://github.com/Harshvardhan210/secure-login-app">Cash-Flow</a></h3>
+  <p><em>Spring Boot • MySql • HTLM/CSS/JS</em></p>
+  <p>Web app to track expenses, visualize budgets, and manage spending insights.</p>
+  <a href="https://github.com/Harshvardhan210/secure-login-app](https://github.com/Harshvardhan210/Cash-Flow">
+    <img src="https://img.shields.io/badge/View_Project-00d4ff?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</td>
+
+</tr>
+
 </table>
 
 </div>
+
 
 ---
 
