@@ -57,7 +57,7 @@
   <h3>🕹️ <a href="https://github.com/Harshvardhan210/HashCamp">Adventure-Ball-Game</a></h3>
   <p><em>Unity • C# • Game Development</em></p>
   <p>Physics-based 3D puzzle game built in Unity featuring smooth gameplay and hard controls.</p>
-  <a href="https://github.com/Harshvardhan210/HashCamp](https://github.com/Harshvardhan210/Adventure-Ball-Game">
+  <a href="https://github.com/Harshvardhan210/Adventure-Ball-Game">
     <img src="https://img.shields.io/badge/View_Project-00d4ff?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </td>
@@ -66,7 +66,7 @@
   <h3>💹 <a href="https://github.com/Harshvardhan210/secure-login-app">Cash-Flow</a></h3>
   <p><em>Spring Boot • MySql • HTLM/CSS/JS</em></p>
   <p>Web app to track expenses, visualize budgets, and manage spending insights.</p>
-  <a href="https://github.com/Harshvardhan210/secure-login-app](https://github.com/Harshvardhan210/Cash-Flow">
+  <a href="https://github.com/Harshvardhan210/Cash-Flow">
     <img src="https://img.shields.io/badge/View_Project-00d4ff?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </td>
