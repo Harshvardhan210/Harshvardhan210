@@ -1,63 +1,67 @@
-# com.harshvardhan.Developer
+# 👋 Hello, I'm Harshvardhan Tiwari
+**Java Backend Developer** · *Clean Code · Solid Systems · High Performance*
 
-```java
-package com.harshvardhan;
-
-/**
- * Technical Specification for Harshvardhan Tiwari.
- * Focuses on clean code, solid systems architecture, and scalable integrations.
- *
- * @author  Harshvardhan Tiwari
- * @role    Java Backend Developer
- * @since   2024-01
- * @see     <a href="https://htprofile.netlify.app/">Portfolio Site</a>
- */
-public interface Developer extends BackendEngineer {
-
-    /**
-     * @return Arrays of actively maintained technical stack capabilities.
-     */
-    @Override
-    default String[] getTechStack() {
-        return new String[] {
-            "Java", "Spring Boot", "PostgreSQL", "MySQL", 
-            "Docker", "Git", "Linux", "React", "Python"
-        };
-    }
-
-    /**
-     * Retrieves industry internship milestones.
-     * 
-     * @company  Mastek (Application Developer Intern)
-     * @duration Jan 2024 – Jun 2024
-     */
-    default String[] getMastekContributions() {
-        return new String[] {
-            "Developed and optimized Java backend components for increased modularity",
-            "Configured and integrated high-speed RESTful service APIs",
-            "Actively engaged in Agile scrums, QA testing loops, and system documentation"
-        };
-    }
-
-    /**
-     * Lists verified certifications and accomplishments.
-     */
-    @Achievement
-    default void printHighlights() {
-        System.out.println("🧠 250+ LeetCode problems solved");
-        System.out.println("📜 Coursera: Spring Framework for Java Development Certified");
-        System.out.println("🏢 Industry Internship Completed successfully");
-    }
-}
-```
+I am a backend-focused application developer specializing in Java, Spring Boot, and PostgreSQL. I center my work around writing maintainable, clean code, designing robust APIs, and optimizing database layers to build scalable modern systems.
 
 ---
 
-### 📡 Active Connection Endpoints:
-* 🌐 **Portfolio**: [htprofile.netlify.app](https://htprofile.netlify.app/)
-* 💼 **LinkedIn**: [linkedin.com/in/harshvardhan-tiwari](https://www.linkedin.com/in/harshvardhan-tiwari-a90b4a228/)
-* 📧 **Gmail**: [harshvardhanti12@gmail.com](mailto:harshvardhanti12@gmail.com)
-* 🎓 **Spring Certification**: [Coursera Verification](https://www.coursera.org/account/accomplishments/verify/XZVZO4ZVK9UK)
+### 🛠️ Technical Capabilities
+
+* **Backend Development:** Java · Spring Boot · Spring Data JPA
+* **Database Systems:** PostgreSQL · MySQL · Firebase
+* **Infrastructure & Automation:** Docker · Git · Linux
+* **Frontend & Scripting:** Python · JavaScript · React · HTML / CSS
+* **API Testing & Tools:** Postman · IntelliJ IDEA · JUnit
+
+---
+
+### 🚀 Featured Projects
+
+* 🏥 **[Medical Report Visualization](https://github.com/Harshvardhan210/Medical-Report-Visualization)**  
+  *Real-time patient dashboard featuring secure role-based control parameters and Firebase integration.*  
+  `Python` · `Streamlit` · `Firebase`
+
+* 💹 **[Cash-Flow](https://github.com/Harshvardhan210/secure-login-app)**  
+  *Full-stack expense tracking platform with interactive budget analytics and spending summaries.*  
+  `Spring Boot` · `MySQL` · `JavaScript`
+
+* 🎮 **[Orbion — Ball Adventure](https://github.com/Harshvardhan210/Orbion---Ball-Adventure)**  
+  *Physics-based 3D puzzle challenge game featuring progressive logical difficulty steps.*  
+  `Unity` · `C#` · `ASP.NET`
+
+* ✅ **[To-Do App](https://github.com/Harshvardhan210/To-Do-App)**  
+  *Sleek, responsive task manager with complete offline data persistence.*  
+  `HTML` · `CSS` · `JavaScript`
+
+---
+
+### 💼 Work History
+
+**Application Developer Intern** · *Mastek*  
+*January 2024 – June 2024*
+* Designed and maintained Java-based backend services to improve database access efficiency.
+* Implemented performant RESTful API integrations for system communication channels.
+* Participated actively in Agile sprints, regression testing loops, and code documentation.
+
+---
+
+### 🎓 Certification & Milestones
+
+* ☕ **Spring Framework for Java Development** — Coursera ([Verify Certificate ↗](https://www.coursera.org/account/accomplishments/verify/XZVZO4ZVK9UK))
+* 🧠 **250+ LeetCode** problems solved
+* 🏢 **Industry Internship** completed successfully
+* 📜 **Spring Certified** developer
+
+---
+
+### 🌐 Let's Connect
+
+Feel free to reach out to collaborate on backend services, system design projects, or just to chat about clean code:
+
+* 🔗 **[Portfolio Website](https://htprofile.netlify.app/)**
+* 💼 **[LinkedIn Profile](https://www.linkedin.com/in/harshvardhan-tiwari-a90b4a228/)**
+* 📧 **[Gmail](mailto:harshvardhanti12@gmail.com)**
+* 💻 **[GitHub Profiles](https://github.com/Harshvardhan210)**
 
 ---
 
@@ -65,5 +69,5 @@ public interface Developer extends BackendEngineer {
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Harshvardhan210/Harshvardhan210/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-  <p><sub>✦ Source compiled with 0 errors ✦</sub></p>
+  <p><sub>✦ Crafting clean backend solutions daily ✦</sub></p>
 </div>
