@@ -1,98 +1,98 @@
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--      HARSHVARDHAN TIWARI — GITHUB PROFILE README v4      -->
-<!-- ══════════════════════════════════════════════════════════ -->
+# Harshvardhan Tiwari
+**Java Backend Developer** · *Clean Code. Clean Architecture.*
+
+<p align="left">
+  <a href="https://htprofile.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-0F172A?style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/harshvardhan-tiwari-a90b4a228/"><img src="https://img.shields.io/badge/💼_LinkedIn-0F172A?style=flat-square" /></a>
+  <a href="mailto:harshvardhanti12@gmail.com"><img src="https://img.shields.io/badge/📧_Gmail-0F172A?style=flat-square" /></a>
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+```java
+public class Harshvardhan {
+    String name       = "Harshvardhan Tiwari";
+    String role       = "Backend Developer";
+    String company    = "Mastek (Intern)";
+    String[] stack    = {"Java", "Spring Boot", "PostgreSQL", "Docker"};
+    int dsaSolved     = 250;
+    String motto      = "Build scalable. Write clean. Ship fast.";
+}
+```
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-0F172A?style=flat-square&logo=spring-boot" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-0F172A?style=flat-square&logo=linux" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-0F172A?style=flat-square&logo=postman" alt="Postman" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 🏥 [**Medical Report Visualization**](https://github.com/Harshvardhan210/Medical-Report-Visualization)
+  *Real-time patient report dashboard with role-based access control and Firebase.*
+  `Python` · `Streamlit` · `Firebase`
+
+- 💹 [**Cash-Flow**](https://github.com/Harshvardhan210/secure-login-app)
+  *Full-stack expense tracker with budget visualization and spending insights.*
+  `Spring Boot` · `MySQL` · `JavaScript`
+
+- 🎮 [**Orbion — Ball Adventure**](https://github.com/Harshvardhan210/Orbion---Ball-Adventure)
+  *Physics-based 3D puzzle game built in Unity with logic challenges.*
+  `Unity` · `C#` · `ASP.NET`
+
+- ✅ [**To-Do App**](https://github.com/Harshvardhan210/To-Do-App)
+  *Clean and responsive task manager with intuitive UI and local persistence.*
+  `HTML` · `CSS` · `JavaScript`
+
+---
+
+### 💼 Work Experience
+
+**Application Developer Intern** — *Mastek*  
+*Jan 2024 – Jun 2024*
+- Developed and maintained Java-based applications improving scalability.
+- Integrated RESTful APIs enabling high-performance communication.
+- Contributed to Agile sprints, testing, and documentation.
+
+---
+
+### 🎓 Certification & Achievements
+
+- ☕ **Spring Framework for Java Development** — Coursera ([Verify ↗](https://www.coursera.org/account/accomplishments/verify/XZVZO4ZVK9UK))
+- 🧠 **250+ LeetCode** Problems Solved
+- 🏢 **Industry Internship** Completed
+- 📜 **Spring Certified**
+
+---
+
+### 🌐 Connect
+
+<p align="left">
+  <a href="https://htprofile.netlify.app/">Portfolio</a> · 
+  <a href="https://www.linkedin.com/in/harshvardhan-tiwari-a90b4a228/">LinkedIn</a> · 
+  <a href="https://github.com/Harshvardhan210">GitHub</a> · 
+  <a href="mailto:harshvardhanti12@gmail.com">Gmail</a>
+</p>
+
+<br/>
 
 <div align="center">
-
-<!-- Header Section (Sunset, Name, Highlights) -->
-<img src="./assets/header.svg" width="100%" alt="Harshvardhan Tiwari" />
-
-<br/>
-
-<!-- About Me (Mock IDE Window) -->
-<img src="./assets/about.svg" width="100%" alt="About Me" />
-
-<br/>
-
-<!-- Tech Stack Grid -->
-<img src="./assets/techstack.svg" width="100%" alt="Tech Stack" />
-
-<br/><br/>
-
-<!-- Featured Projects Section -->
-<h3 align="left">&nbsp;&nbsp;🚀 FEATURED PROJECTS</h3>
-<table width="100%" border="0" cellspacing="0" cellpadding="8" style="border-collapse: collapse;">
-  <tr>
-    <td width="50%" align="center" style="padding: 6px;">
-      <a href="https://github.com/Harshvardhan210/Medical-Report-Visualization" target="_blank">
-        <img src="./assets/project_medical.svg" width="100%" alt="Medical Report Visualization" />
-      </a>
-    </td>
-    <td width="50%" align="center" style="padding: 6px;">
-      <a href="https://github.com/Harshvardhan210/secure-login-app" target="_blank">
-        <img src="./assets/project_cashflow.svg" width="100%" alt="Cash-Flow" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" style="padding: 6px;">
-      <a href="https://github.com/Harshvardhan210/Orbion---Ball-Adventure" target="_blank">
-        <img src="./assets/project_orbion.svg" width="100%" alt="Orbion — Ball Adventure" />
-      </a>
-    </td>
-    <td width="50%" align="center" style="padding: 6px;">
-      <a href="https://github.com/Harshvardhan210/To-Do-App" target="_blank">
-        <img src="./assets/project_todo.svg" width="100%" alt="To-Do App" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Work Experience Card -->
-<img src="./assets/experience.svg" width="100%" alt="Work Experience" />
-
-<br/>
-
-<!-- Certification Card -->
-<a href="https://www.coursera.org/account/accomplishments/verify/XZVZO4ZVK9UK" target="_blank">
-  <img src="./assets/certification.svg" width="100%" alt="Certification" />
-</a>
-
-<br/>
-
-<!-- Achievements Card -->
-<img src="./assets/achievements.svg" width="100%" alt="Achievements" />
-
-<br/><br/>
-
-<!-- GitHub Stats Section -->
-<h3 align="left">&nbsp;&nbsp;📊 GITHUB STATS</h3>
-
-<!-- Snake Grid Contribution Graph -->
-<div align="center" style="margin-top: 12px; margin-bottom: 20px;">
   <img src="https://raw.githubusercontent.com/Harshvardhan210/Harshvardhan210/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-</div>
-
-<br/>
-
-<!-- Connect Section -->
-<h3 align="left">&nbsp;&nbsp;🌐 CONNECT</h3>
-<div align="center" style="margin-top: 10px; margin-bottom: 25px;">
-  <a href="mailto:harshvardhanti12@gmail.com" target="_blank"><img src="./assets/connect_gmail.svg" height="32" style="margin: 0 4px;" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/harshvardhan-tiwari-a90b4a228/" target="_blank"><img src="./assets/connect_linkedin.svg" height="32" style="margin: 0 4px;" alt="LinkedIn" /></a>
-  <a href="https://github.com/Harshvardhan210" target="_blank"><img src="./assets/connect_github.svg" height="32" style="margin: 0 4px;" alt="GitHub" /></a>
-  <a href="https://htprofile.netlify.app/" target="_blank"><img src="./assets/connect_portfolio.svg" height="32" style="margin: 0 4px;" alt="Portfolio" /></a>
-</div>
-
-<hr style="height: 1px; border: none; background-color: #3B0764; opacity: 0.5; margin: 30px 0;" />
-
-<!-- Footer -->
-<div align="center" style="margin-top: 15px; margin-bottom: 10px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=50&color=0:ff5f9e,50:bf5af2,100:7dd3fc&section=footer" width="100%" />
-  <br/>
-  <em>✦ Crafted with passion & Java ☕ · Harshvardhan Tiwari ✦</em>
-</div>
-
+  <p><sub>✦ Crafted with passion · Harshvardhan Tiwari ✦</sub></p>
 </div>
