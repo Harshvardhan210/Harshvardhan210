@@ -4,12 +4,12 @@
     <style type="text/css">
       @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&amp;family=Space+Grotesk:wght@500;700&amp;display=swap');
       
-      .sun-gradient { fill: url(#synthwave-sun); }
+      .sphere-gradient { fill: url(#cyber-sphere); }
       .title {
         font-family: 'Outfit', sans-serif;
         font-weight: 800;
         font-size: 38px;
-        fill: url(#pink-glow);
+        fill: url(#cyan-glow-grad);
         text-anchor: middle;
         letter-spacing: 0.5px;
       }
@@ -17,7 +17,7 @@
         font-family: 'Space Grotesk', sans-serif;
         font-weight: 700;
         font-size: 13px;
-        fill: #D946EF;
+        fill: #00F2FE;
         text-anchor: middle;
         letter-spacing: 4px;
       }
@@ -25,7 +25,7 @@
         font-family: 'Space Grotesk', sans-serif;
         font-weight: 500;
         font-size: 14px;
-        fill: #A78BFA;
+        fill: #94A3B8;
         text-anchor: middle;
         letter-spacing: 1px;
       }
@@ -38,7 +38,6 @@
         dominant-baseline: middle;
       }
       
-      /* Subtle hover/glow effects */
       .badge {
         transition: all 0.3s ease;
       }
@@ -48,87 +47,72 @@
       }
     </style>
 
-    <!-- Gradients -->
-    <linearGradient id="synthwave-sun" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#FBBF24" />
-      <stop offset="50%" stop-color="#EC4899" />
-      <stop offset="100%" stop-color="#3B0764" />
-    </linearGradient>
+    <!-- Cyber Spherical Gradient -->
+    <radialGradient id="cyber-sphere" cx="50%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="50%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#05070C" />
+    </radialGradient>
 
-    <linearGradient id="pink-glow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF5F9E" />
-      <stop offset="50%" stop-color="#BF5AF2" />
-      <stop offset="100%" stop-color="#7DD3FC" />
+    <linearGradient id="cyan-glow-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="50%" stop-color="#00F2FE" />
+      <stop offset="100%" stop-color="#3B82F6" />
     </linearGradient>
-    
-    <!-- Neon Glow Filters -->
-    <filter id="neon-glow-purple" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
   </defs>
 
-  <!-- Background (matching github dark mode canvas but self-contained) -->
-  <rect width="100%" height="100%" fill="#07020d" rx="12" />
+  <!-- Cosmic Dark Background -->
+  <rect width="100%" height="100%" fill="#05070c" rx="12" />
 
-  <!-- Retro Synthwave Sun (with horizontal stripe cutouts) -->
+  <!-- High-Tech Geometric Sphere Header Logo -->
   <g transform="translate(400, 65)">
-    <!-- Sun Core -->
-    <mask id="sun-stripes">
-      <rect x="-60" y="-60" width="120" height="120" fill="white" />
-      <!-- Horizontal lines to mask out -->
-      <rect x="-60" y="5" width="120" height="3" fill="black" />
-      <rect x="-60" y="14" width="120" height="4" fill="black" />
-      <rect x="-60" y="24" width="120" height="5" fill="black" />
-      <rect x="-60" y="35" width="120" height="6" fill="black" />
-      <rect x="-60" y="47" width="120" height="8" fill="black" />
-    </mask>
-    <circle r="48" class="sun-gradient" mask="url(#sun-stripes)" />
+    <!-- Tech Grid Circle Background -->
+    <circle r="48" fill="none" stroke="#1E293B" stroke-dasharray="4 2" stroke-width="1" />
+    <circle r="40" class="sphere-gradient" opacity="0.85" />
+    <!-- Outer accent rings -->
+    <circle r="44" fill="none" stroke="#00F2FE" stroke-width="1" opacity="0.3" />
+    <circle r="48" fill="none" stroke="#3B82F6" stroke-width="1.2" opacity="0.5" stroke-dasharray="20 10" />
   </g>
 
-  <!-- Profile Typography -->
+  <!-- Typography -->
   <text x="400" y="152" class="title">Harshvardhan Tiwari</text>
   <text x="400" y="180" class="subtitle">JAVA BACKEND DEVELOPER</text>
   
   <text x="400" y="210" class="motto">Clean Code. Clean Arc.</text>
 
-  <!-- Badges Grid (Pills with colored glow borders) -->
-  <!-- 5 Badges centered: Spring Boot, 250+ LeetCode, Mastek Intern, PostgreSQL, Docker -->
+  <!-- High-Tech Slate Badges -->
   <g transform="translate(400, 248)">
-    <!-- Spring Boot (Purple) -->
+    <!-- Spring Boot (Teal/Green) -->
     <g class="badge" transform="translate(-255, 0)">
-      <rect x="0" y="0" width="95" height="24" rx="12" fill="#140727" stroke="#BF5AF2" stroke-width="1.5" />
-      <text x="47.5" y="13" class="badge-text" fill="#D8B4FE">Spring Boot</text>
+      <rect x="0" y="0" width="95" height="24" rx="12" fill="#061814" stroke="#10B981" stroke-width="1.2" />
+      <text x="47.5" y="13" class="badge-text" fill="#A7F3D0">Spring Boot</text>
     </g>
 
-    <!-- LeetCode (Pink) -->
+    <!-- LeetCode (Cyan) -->
     <g class="badge" transform="translate(-150, 0)">
-      <rect x="0" y="0" width="105" height="24" rx="12" fill="#180415" stroke="#FF5F9E" stroke-width="1.5" />
-      <text x="52.5" y="13" class="badge-text" fill="#FBCFE8">250+ LeetCode</text>
+      <rect x="0" y="0" width="105" height="24" rx="12" fill="#02141a" stroke="#00F2FE" stroke-width="1.2" />
+      <text x="52.5" y="13" class="badge-text" fill="#E0F2FE">250+ LeetCode</text>
     </g>
 
-    <!-- Mastek Intern (Orange/Yellow) -->
+    <!-- Mastek Intern (Blue) -->
     <g class="badge" transform="translate(-35, 0)">
-      <rect x="0" y="0" width="100" height="24" rx="12" fill="#1a0c02" stroke="#F59E0B" stroke-width="1.5" />
-      <text x="50" y="13" class="badge-text" fill="#FDE68A">Mastek Intern</text>
+      <rect x="0" y="0" width="100" height="24" rx="12" fill="#030e1f" stroke="#3B82F6" stroke-width="1.2" />
+      <text x="50" y="13" class="badge-text" fill="#DBEAFE">Mastek Intern</text>
     </g>
 
-    <!-- PostgreSQL (Blue) -->
+    <!-- PostgreSQL (Slate) -->
     <g class="badge" transform="translate(75, 0)">
-      <rect x="0" y="0" width="95" height="24" rx="12" fill="#031122" stroke="#38BDF8" stroke-width="1.5" />
-      <text x="47.5" y="13" class="badge-text" fill="#BAE6FD">PostgreSQL</text>
+      <rect x="0" y="0" width="95" height="24" rx="12" fill="#0f172a" stroke="#64748B" stroke-width="1.2" />
+      <text x="47.5" y="13" class="badge-text" fill="#E2E8F0">PostgreSQL</text>
     </g>
 
-    <!-- Docker (Red/Pink) -->
+    <!-- Docker (Cyan-Blue) -->
     <g class="badge" transform="translate(180, 0)">
-      <rect x="0" y="0" width="75" height="24" rx="12" fill="#18030f" stroke="#F43F5E" stroke-width="1.5" />
-      <text x="37.5" y="13" class="badge-text" fill="#FECDD3">Docker</text>
+      <rect x="0" y="0" width="75" height="24" rx="12" fill="#021122" stroke="#0EA5E9" stroke-width="1.2" />
+      <text x="37.5" y="13" class="badge-text" fill="#E0F2FE">Docker</text>
     </g>
   </g>
 
-  <!-- Bottom Elegant Divider Line -->
-  <line x1="100" y1="295" x2="700" y2="295" stroke="#3B0764" stroke-width="1.5" opacity="0.6" />
+  <!-- Bottom Divider Line -->
+  <line x1="100" y1="295" x2="700" y2="295" stroke="#1E293B" stroke-width="1" opacity="0.6" />
 </svg>
