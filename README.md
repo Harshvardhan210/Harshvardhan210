@@ -1,54 +1,59 @@
-# ~/.config/developer/harshvardhan.json
+# com.harshvardhan.Developer
 
-```json
-{
-  "developer": {
-    "name": "Harshvardhan Tiwari",
-    "role": "Java Backend Developer",
-    "specialization": "Clean Architecture & Scalable Systems",
-    "motto": "Build scalable. Write clean. Ship fast."
-  },
-  "tech_stack": {
-    "languages": ["Java", "Python", "JavaScript", "C#"],
-    "frameworks": ["Spring Boot", "React", "ASP.NET", "Streamlit"],
-    "databases": ["PostgreSQL", "MySQL", "Firebase"],
-    "platforms": ["Docker", "Git", "Linux", "Postman"]
-  },
-  "employment": {
-    "company": "Mastek",
-    "role": "Application Developer Intern",
-    "duration": "Jan 2024 - Jun 2024",
-    "contributions": [
-      "Developed and maintained Java-based backend components to improve scalability",
-      "Built and optimized RESTful APIs for fast, high-performance communications",
-      "Participated actively in Agile sprints, testing loops, and code documentation"
-    ]
-  },
-  "certifications": [
-    {
-      "name": "Spring Framework for Java Development",
-      "issuer": "Coursera",
-      "verified": true,
-      "link": "https://www.coursera.org/account/accomplishments/verify/XZVZO4ZVK9UK"
+```java
+package com.harshvardhan;
+
+/**
+ * Technical Specification for Harshvardhan Tiwari.
+ * Focuses on clean code, solid systems architecture, and scalable integrations.
+ *
+ * @author  Harshvardhan Tiwari
+ * @role    Java Backend Developer
+ * @since   2024-01
+ * @see     <a href="https://htprofile.netlify.app/">Portfolio Site</a>
+ */
+public interface Developer extends BackendEngineer {
+
+    /**
+     * @return Arrays of actively maintained technical stack capabilities.
+     */
+    @Override
+    default String[] getTechStack() {
+        return new String[] {
+            "Java", "Spring Boot", "PostgreSQL", "MySQL", 
+            "Docker", "Git", "Linux", "React", "Python"
+        };
     }
-  ],
-  "achievements": {
-    "leetcode_solved": 250,
-    "public_repos": 18,
-    "industry_experience": "completed"
-  },
-  "endpoints": {
-    "portfolio": "https://htprofile.netlify.app/",
-    "linkedin": "https://www.linkedin.com/in/harshvardhan-tiwari-a90b4a228/",
-    "github": "https://github.com/Harshvardhan210",
-    "email": "harshvardhanti12@gmail.com"
-  }
+
+    /**
+     * Retrieves industry internship milestones.
+     * 
+     * @company  Mastek (Application Developer Intern)
+     * @duration Jan 2024 – Jun 2024
+     */
+    default String[] getMastekContributions() {
+        return new String[] {
+            "Developed and optimized Java backend components for increased modularity",
+            "Configured and integrated high-speed RESTful service APIs",
+            "Actively engaged in Agile scrums, QA testing loops, and system documentation"
+        };
+    }
+
+    /**
+     * Lists verified certifications and accomplishments.
+     */
+    @Achievement
+    default void printHighlights() {
+        System.out.println("🧠 250+ LeetCode problems solved");
+        System.out.println("📜 Coursera: Spring Framework for Java Development Certified");
+        System.out.println("🏢 Industry Internship Completed successfully");
+    }
 }
 ```
 
 ---
 
-### 📡 Active Endpoints:
+### 📡 Active Connection Endpoints:
 * 🌐 **Portfolio**: [htprofile.netlify.app](https://htprofile.netlify.app/)
 * 💼 **LinkedIn**: [linkedin.com/in/harshvardhan-tiwari](https://www.linkedin.com/in/harshvardhan-tiwari-a90b4a228/)
 * 📧 **Gmail**: [harshvardhanti12@gmail.com](mailto:harshvardhanti12@gmail.com)
@@ -60,5 +65,5 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Harshvardhan210/Harshvardhan210/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-  <p><sub>✦ Specs compiled successfully ✦</sub></p>
+  <p><sub>✦ Source compiled with 0 errors ✦</sub></p>
 </div>
