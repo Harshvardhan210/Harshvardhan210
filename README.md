@@ -1,121 +1,164 @@
-<!-- ──────────────────────────────────────────────── -->
-<!--   HARSHVARDHAN TIWARI | Application Developer    -->
-<!-- ──────────────────────────────────────────────── -->
+<!-- ═══════════════════════════════════════════════════ -->
+<!--         HARSHVARDHAN TIWARI — GITHUB PROFILE README   -->
+<!-- ═══════════════════════════════════════════════════ -->
 
-<p align="center">
-  <!-- Typing Animated Text (Balanced Font Size) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&color=00D4FF&center=true&vCenter=true&width=700&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Harshvardhan+Tiwari;Application+Developer+%7C+Java+%26+Spring+Boot+Enthusiast;Full+Stack+Learner+%7C+Problem+Solver" alt="Typing Animation" />
-</p>
+<div align="center">
+
+<!-- Synthwave sunset banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Harshvardhan%20Tiwari&fontSize=42&color=0:ff5f9e,50:bf5af2,100:7dd3fc&fontColor=ffffff&animation=fadeIn&desc=Java%20Backend%20Developer&descSize=16&descAlignY=75" />
+
+<br/>
+
+<!-- Animated typing -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1200&color=BF5AF2&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+%E2%98%95;Spring+Boot+%7C+PostgreSQL+%7C+Docker+%F0%9F%90%B3;Building+Scalable+APIs+%F0%9F%9A%80;250%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Clean+Code+%E2%9C%A8+Clean+Architecture" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- Social badges -->
+<a href="https://htprofile.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-%23ff5f9e?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/harshvardhan-tiwari-a90b4a228/">
+  <img src="https://img.shields.io/badge/LinkedIn-%23bf5af2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:harshvardhanti12@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23ff5f9e?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Harshvardhan210&style=for-the-badge&color=bf5af2&label=Profile+Views" />
+
+<br/><br/>
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%232d0f52?style=flat-square&color=2d0f52&labelColor=3d1a6e&logo=spring-boot)
+![250+ LeetCode](https://img.shields.io/badge/250%2B%20LeetCode-%231f0a38?style=flat-square&color=1f0a38&labelColor=ff5f9e)
+![Mastek Intern](https://img.shields.io/badge/Mastek%20Intern-%231a1100?style=flat-square&color=1a1100&labelColor=ff9d4d)
+
+</div>
 
 ---
 
-## 🧩 About Me  
+## 🧑‍💻 About Me
 
-💡 Passionate **Application Developer** skilled in **Java, Spring Boot, React**, and **REST API** development.  
-🚀 I love creating **scalable backend systems** and **intuitive UIs**.  
-🎯 Constantly improving my **DSA**, architecture, and clean-code skills.  
+```java
+public class Harshvardhan {
+
+    String  name       = "Harshvardhan Tiwari";
+    String  role       = "Backend Developer";
+    String  company    = "Mastek (Intern)";
+    String[] stack     = {"Java", "Spring Boot", "PostgreSQL", "Docker"};
+    int     dsaSolved  = 250;
+    String  motto      = "Build scalable. Write clean. Ship fast.";
+
+    // Always leveling up in system design & clean architecture
+    String  portfolio  = "https://htprofile.netlify.app/";
+}
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,python,cpp,mysql,postgresql,git,github&theme=dark" />
-</p>
-
----
-
-## 🚀 Featured Projects  
-
 <div align="center">
 
-<table>
-<tr>
-
-<td width="45%" align="center" valign="top">
-  <h3>🧠 <a href="https://github.com/Harshvardhan210/Medical-Report-Visualization">Medical Report Visualization</a></h3>
-  <p><em>Streamlit • Firebase • Data Visualization</em></p>
-  <p>Real-time dashboard for visualizing patient reports with role-based access.</p>
-  <a href="https://github.com/Harshvardhan210/Medical-Report-Visualization">
-    <img src="https://img.shields.io/badge/View_Project-00d4ff?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-</td>
-
-<td width="45%" align="center" valign="top">
-  <h3>🎮 <a href="https://github.com/Harshvardhan210/Orbion---Ball-Adventure">Orbion - Ball Adventure</a></h3>
-  <p><em>Unity • C# • Game Development</em></p>
-  <p>Physics-based 3D puzzle game built in Unity featuring smooth gameplay and logic-based challenges.</p>
-  <a href="https://github.com/Harshvardhan210/Orbion---Ball-Adventure">
-    <img src="https://img.shields.io/badge/View_Project-00d4ff?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-</td>
-
-</tr>
-<tr>
-
-<td width="45%" align="center" valign="top">
-  <h3>🕹️ <a href="https://github.com/Harshvardhan210/HashCamp">Adventure-Ball-Game</a></h3>
-  <p><em>Unity • C# • Game Development</em></p>
-  <p>Physics-based 3D puzzle game built in Unity featuring smooth gameplay and hard controls.</p>
-  <a href="https://github.com/Harshvardhan210/Adventure-Ball-Game">
-    <img src="https://img.shields.io/badge/View_Project-00d4ff?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-</td>
-
-<td width="45%" align="center" valign="top">
-  <h3>💹 <a href="https://github.com/Harshvardhan210/secure-login-app">Cash-Flow</a></h3>
-  <p><em>Spring Boot • MySql • HTLM/CSS/JS</em></p>
-  <p>Web app to track expenses, visualize budgets, and manage spending insights.</p>
-  <a href="https://github.com/Harshvardhan210/Cash-Flow">
-    <img src="https://img.shields.io/badge/View_Project-00d4ff?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-</td>
-
-</tr>
-
-</table>
+![Java](https://img.shields.io/badge/Java-ff5f9e?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-bf5af2?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7dd3fc?style=for-the-badge&logo=postgresql&logoColor=111)
+![MySQL](https://img.shields.io/badge/MySQL-a78bfa?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-ff9d4d?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-c084fc?style=for-the-badge&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-f472b6?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-fbbf24?style=for-the-badge&logo=javascript&logoColor=111)
+![Git](https://img.shields.io/badge/Git-fb7185?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-e879f9?style=for-the-badge&logo=linux&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff5f9e?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-bf5af2?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
 
-
 ---
 
-## 🏅 Certifications
+## 🚀 Featured Projects
 
-| Certificate | Platform | Description |
-|--------------|-----------|-------------|
-| **Spring Framework for Java Development** | Coursera | Hands-on training in Spring Boot, REST APIs, and Data JPA integration. [🔗 View Certificate](https://www.coursera.org/account/accomplishments/verify/XZVZO4ZVK9UK) |
+<div align="center">
+
+| ✦ | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 🏥 | [**Medical Report Visualization**](https://github.com/Harshvardhan210/Medical-Report-Visualization) | Real-time patient report dashboard with role-based access | Python · Streamlit · Firebase |
+| 💹 | [**Cash-Flow**](https://github.com/Harshvardhan210/secure-login-app) | Expense tracker with budget visualization & spending insights | Spring Boot · MySQL · HTML/CSS/JS |
+| 🎮 | [**Orbion — Ball Adventure**](https://github.com/Harshvardhan210/Orbion---Ball-Adventure) | Physics-based 3D puzzle game with logic challenges | Unity · C# · ASP.NET |
+| ✅ | [**To-Do App**](https://github.com/Harshvardhan210/To-Do-App) | Responsive task manager with clean UI | HTML · CSS · JavaScript |
+
+</div>
 
 ---
 
 ## 💼 Work Experience
 
-**Application Developer Intern — Mastek**  
-*Jan 2024 – June 2024*  
-✔ Developed & maintained **Java-based applications** improving scalability.  
-✔ Integrated **RESTful APIs** enabling high-performance communication.  
-✔ Contributed to **Agile sprints**, testing, and documentation.  
+<table>
+  <tr>
+    <td valign="top" width="100%">
+      <h3>Application Developer Intern — Mastek</h3>
+      <em>Jan 2024 – Jun 2024</em>
+      <ul>
+        <li>Developed &amp; maintained Java-based applications improving scalability</li>
+        <li>Integrated RESTful APIs enabling high-performance communication</li>
+        <li>Contributed to Agile sprints, testing and documentation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧩 Achievements
-- Solved **250+ DSA problems** on LeetCode 🧠  
-- Developed multiple **real-world projects** integrating APIs and databases  
-- Fast learner with strong debugging and design-thinking ability  
+## 🎓 Certification
+
+| ✦ | Certificate | Platform | Link |
+|---|------------|----------|------|
+| ☕ | **Spring Framework for Java Development** | Coursera | [View →](https://www.coursera.org/account/accomplishments/verify/XZVZO4ZVK9UK) |
 
 ---
 
-## 🌐 Connect with Me
+## 🏅 Achievements
 
-<p align="center">
-  <a href="mailto:harshvardhanti12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/harshvardhan-tiwari-a90b4a228/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Harshvardhan210"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://harshvardhan210.github.io/Portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-</p>
+<div align="center">
+
+![DSA](https://img.shields.io/badge/🧠_250%2B_LeetCode_Problems-ff5f9e?style=for-the-badge)
+![Repos](https://img.shields.io/badge/🚀_18_Public_Repos-bf5af2?style=for-the-badge)
+![Intern](https://img.shields.io/badge/🏢_Industry_Internship-ff9d4d?style=for-the-badge)
+![Cert](https://img.shields.io/badge/📜_Spring_Certified-c084fc?style=for-the-badge)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00d4ff&section=footer"/>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshvardhan210&show_icons=true&theme=radical&hide_border=true&bg_color=0e0218&title_color=ff5f9e&icon_color=bf5af2&text_color=e8d5ff&ring_color=ff5f9e" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan210&layout=compact&theme=radical&hide_border=true&bg_color=0e0218&title_color=ff5f9e&text_color=e8d5ff" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Harshvardhan210&theme=radical&hide_border=true&background=0e0218&ring=ff5f9e&fire=bf5af2&currStreakLabel=c084fc&sideLabels=7c4db8&dates=4a2070" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Harshvardhan210/Harshvardhan210/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff5f9e,50:bf5af2,100:7dd3fc&section=footer" />
+
+*✦ Crafted with passion & Java ☕ · Harshvardhan Tiwari ✦*
+
+</div>
