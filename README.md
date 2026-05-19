@@ -69,16 +69,11 @@
 
 <!-- GitHub Stats Section -->
 <h3 align="left">&nbsp;&nbsp;📊 GITHUB STATS</h3>
-<table width="100%" border="0" cellspacing="0" cellpadding="8" style="border-collapse: collapse;">
-  <tr>
-    <td width="50%" align="center" style="padding: 6px;">
-      <img height="175" src="https://github-readme-stats.vercel.app/api?username=Harshvardhan210&show_icons=true&theme=radical&hide_border=true&bg_color=0e0218&title_color=ff5f9e&icon_color=bf5af2&text_color=e8d5ff&ring_color=ff5f9e&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center" style="padding: 6px;">
-      <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan210&layout=compact&theme=radical&hide_border=true&bg_color=0e0218&title_color=ff5f9e&text_color=e8d5ff&langs_count=6" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Harshvardhan210&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0e0218&amp;title_color=ff5f9e&amp;icon_color=bf5af2&amp;text_color=e8d5ff&amp;ring_color=ff5f9e&amp;count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan210&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0e0218&amp;title_color=ff5f9e&amp;text_color=e8d5ff&amp;langs_count=6" alt="Top Languages" />
+</div>
 
 <!-- Snake Grid Contribution Graph -->
 <div align="center" style="margin-top: 12px; margin-bottom: 20px;">
