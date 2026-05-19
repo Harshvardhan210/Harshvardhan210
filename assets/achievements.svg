@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140" width="100%" height="140">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@600;700;800&amp;family=Space+Grotesk:wght@500;600&amp;display=swap');
+      
+      .sec-title {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 700;
+        font-size: 14px;
+        fill: #A78BFA;
+        letter-spacing: 1.5px;
+        text-transform: uppercase;
+      }
+      
+      .ach-text {
+        font-family: 'Space Grotesk', sans-serif;
+        font-weight: 600;
+        font-size: 10.5px;
+        fill: #E2E8F0;
+        dominant-baseline: middle;
+      }
+      
+      .ach-pill {
+        transition: all 0.3s ease;
+      }
+      .ach-pill:hover {
+        cursor: pointer;
+        filter: drop-shadow(0 0 6px currentColor);
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#07020d" rx="12" />
+
+  <!-- Section Title -->
+  <text x="25" y="35" class="sec-title">ACHIEVEMENTS</text>
+
+  <!-- Achievements Capsules -->
+  <g transform="translate(0, 55)">
+    <!-- 1: LeetCode (Pink) -->
+    <g class="ach-pill" fill="#FF5F9E" transform="translate(25, 0)">
+      <rect x="0" y="0" width="170" height="42" rx="21" fill="#140718" stroke="#FF5F9E" stroke-width="1.2" />
+      <!-- Brain emoji / vector placeholder -->
+      <text x="18" y="23" font-size="16" dominant-baseline="middle">🧠</text>
+      <text x="44" y="22" class="ach-text">250+ LeetCode Problems</text>
+    </g>
+
+    <!-- 2: Public Repos (Orange/Red) -->
+    <g class="ach-pill" fill="#F87171" transform="translate(212, 0)">
+      <rect x="0" y="0" width="170" height="42" rx="21" fill="#1f0707" stroke="#F87171" stroke-width="1.2" />
+      <!-- Document emoji -->
+      <text x="18" y="23" font-size="16" dominant-baseline="middle">📝</text>
+      <text x="44" y="22" class="ach-text">18 Public Repos</text>
+    </g>
+
+    <!-- 3: Industry Internship (Blue) -->
+    <g class="ach-pill" fill="#38BDF8" transform="translate(399, 0)">
+      <rect x="0" y="0" width="170" height="42" rx="21" fill="#03121d" stroke="#38BDF8" stroke-width="1.2" />
+      <!-- Building emoji -->
+      <text x="18" y="23" font-size="16" dominant-baseline="middle">🏢</text>
+      <text x="44" y="22" class="ach-text">Industry Internship</text>
+    </g>
+
+    <!-- 4: Spring Certified (Green) -->
+    <g class="ach-pill" fill="#34D399" transform="translate(586, 0)">
+      <rect x="0" y="0" width="185" height="42" rx="21" fill="#041610" stroke="#34D399" stroke-width="1.2" />
+      <!-- Certificate emoji -->
+      <text x="18" y="23" font-size="16" dominant-baseline="middle">📜</text>
+      <text x="44" y="22" class="ach-text">Spring Certified</text>
+    </g>
+  </g>
+</svg>
