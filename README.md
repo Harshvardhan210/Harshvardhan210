@@ -69,11 +69,6 @@
 
 <!-- GitHub Stats Section -->
 <h3 align="left">&nbsp;&nbsp;📊 GITHUB STATS</h3>
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Harshvardhan210&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0e0218&amp;title_color=ff5f9e&amp;icon_color=bf5af2&amp;text_color=e8d5ff&amp;ring_color=ff5f9e&amp;count_private=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan210&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0e0218&amp;title_color=ff5f9e&amp;text_color=e8d5ff&amp;langs_count=6" alt="Top Languages" />
-</div>
 
 <!-- Snake Grid Contribution Graph -->
 <div align="center" style="margin-top: 12px; margin-bottom: 20px;">
