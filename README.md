@@ -86,7 +86,7 @@
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
-      <a href="https://github.com/Harshvardhan210/secure-login-app">
+      <a href="https://github.com/Harshvardhan210/cashflow-v1">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
