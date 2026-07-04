@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Clean+Code+Architect+%E2%9C%A8;Spring+Boot+%7C+PostgreSQL+%7C+Docker;Building+Scalable+Backend+Systems;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Backend+Architecture;Clean+Code+%E2%9C%A8;Microservices+%7C+Spring+Boot;Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -25,22 +25,8 @@
 
 ## 🧠 About Me
 
-```java
-public class Harshvardhan extends Developer {
-
-    String[] focus    = { "Backend Architecture", "Clean Code", "Scalable Systems" };
-    String[] stack    = { "Java", "Spring Boot", "PostgreSQL", "Docker" };
-    String   mindset  = "Build things that last.";
-    boolean  openToWork = true;
-
-    @Override
-    public String toString() {
-        return "Backend dev who writes code humans AND compilers love.";
-    }
-}
-```
-
-> 🔹 I specialize in **Java backend systems** — designing robust APIs, optimizing database layers, and maintaining clean, maintainable codebases built for scale.
+> 👋 **Hi, I'm Harshvardhan Tiwari!**  
+> I am a backend-focused developer specializing in Java, Spring Boot, and Microservices architecture. I center my development around writing maintainable, clean code, designing robust APIs, and optimizing database layers to build scalable modern systems. Always looking to explore new backend integrations and systems architecture.
 
 ---
 
@@ -56,21 +42,21 @@ public class Harshvardhan extends Developer {
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### 🚀 Frameworks & Libraries
+### 🚀 Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF4B4B?style=for-the-badge&logo=oracle&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🗄️ Databases & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
@@ -82,24 +68,22 @@ public class Harshvardhan extends Developer {
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Medical Report Visualization</h3>
-      <p>Real-time patient dashboard with secure role-based access control and live Firebase integration.</p>
+      <h3>💼 1. Zenjob</h3>
+      <p>Modern job and task management platform.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
       </p>
-      <a href="https://github.com/Harshvardhan210/Medical-Report-Visualization">
+      <a href="https://github.com/Harshvardhan210/Zenjob">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>💹 Cash-Flow</h3>
+      <h3>💹 2. Cash-Flow</h3>
       <p>Full-stack expense tracking platform with interactive budget analytics and intelligent spending insights.</p>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
       <a href="https://github.com/Harshvardhan210/secure-login-app">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -108,26 +92,24 @@ public class Harshvardhan extends Developer {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎮 Orbion — Ball Adventure</h3>
-      <p>Physics-based 3D puzzle game with progressive logical difficulty and polished gameplay mechanics.</p>
+      <h3>📦 3. Order Processing Kafka System</h3>
+      <p>Robust distributed architecture relying on Apache Kafka for highly decoupled and scalable event processing.</p>
       <p>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
       </p>
-      <a href="https://github.com/Harshvardhan210/Orbion---Ball-Adventure">
+      <a href="https://github.com/Harshvardhan210/order-processing-kafka-system">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>✅ To-Do App</h3>
-      <p>Sleek, responsive task manager with complete offline persistence and a clean minimal UI.</p>
+      <h3>🔐 4. Github-Access-Audit</h3>
+      <p>Security and auditing tool to track and manage access permissions for GitHub repositories.</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Automation-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
-      <a href="https://github.com/Harshvardhan210/To-Do-App">
+      <a href="https://github.com/Harshvardhan210/github-access-audit">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -140,13 +122,25 @@ public class Harshvardhan extends Developer {
 
 <table width="100%" border="0">
   <tr>
-    <td>
+    <td width="100%">
       <h3>🏢 Application Developer Intern &nbsp;·&nbsp; <em>Mastek</em></h3>
-      <p><code>January 2024 – June 2024</code></p>
+      <p><code>Jan 2024 – Jun 2024</code></p>
       <ul>
-        <li>⚡ Designed and maintained <strong>Java-based backend services</strong> to improve database access efficiency.</li>
-        <li>🔗 Implemented performant <strong>RESTful API integrations</strong> for seamless system communication.</li>
-        <li>🔄 Participated in <strong>Agile sprints</strong>, regression testing loops, and comprehensive code documentation.</li>
+        <li>Developed and enhanced a <strong>fitness membership management system</strong> using Java and SQL.</li>
+        <li>Built and integrated <strong>RESTful APIs</strong> for seamless data exchange between services.</li>
+        <li>Optimized membership database, improving query performance significantly.</li>
+        <li>Participated in <strong>Agile sprints</strong>, code reviews, and documentation.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3>🔬 QA Intern &nbsp;·&nbsp; <em>App Wizards Technology</em></h3>
+      <p><code>Jan 2026 – Mar 2026</code></p>
+      <ul>
+        <li>Performed <strong>API testing</strong> using Postman, verifying endpoint responses and payloads.</li>
+        <li>Executed <strong>SQL queries</strong> to validate database integrity and data consistency.</li>
+        <li>Collaborated with developers on defect reporting and regression testing.</li>
       </ul>
     </td>
   </tr>
@@ -154,14 +148,14 @@ public class Harshvardhan extends Developer {
 
 ---
 
-## 🏆 Certifications & Milestones
+## 🏆 Certifications
 
-| 🏅 Achievement | Details |
-|---|---|
-| ☕ **Spring Framework for Java** | Coursera Certified — [Verify ↗](https://www.coursera.org/account/accomplishments/verify/XZVZO4ZVK9UK) |
-| 🧠 **LeetCode** | 250+ Problems Solved |
-| 🏢 **Industry Experience** | 6-Month Internship at Mastek |
-| 📜 **Spring Certified** | Certified Spring Developer |
+| 🏅 Certificate | Platform | Year |
+|---|---|---|
+| **Java (Basic)** | HackerRank | 2025 |
+| **Spring Framework for Java Development** | Coursera | 2020 |
+| **JPMorgan Chase Software Engineering Job Simulation** | Forage | 2026 |
+| **JavaScript 20 Projects in 20 Days** | Udemy | 2022 |
 
 ---
 
