@@ -71,8 +71,7 @@
       <h3>💼 1. Zenjob</h3>
       <p>Modern job and task management platform.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
       <a href="https://github.com/Harshvardhan210/Zenjob">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -120,31 +119,18 @@
 
 ## 💼 Work Experience
 
-<table width="100%" border="0">
-  <tr>
-    <td width="100%">
-      <h3>🏢 Application Developer Intern &nbsp;·&nbsp; <em>Mastek</em></h3>
-      <p><code>Jan 2024 – Jun 2024</code></p>
-      <ul>
-        <li>Developed and enhanced a <strong>fitness membership management system</strong> using Java and SQL.</li>
-        <li>Built and integrated <strong>RESTful APIs</strong> for seamless data exchange between services.</li>
-        <li>Optimized membership database, improving query performance significantly.</li>
-        <li>Participated in <strong>Agile sprints</strong>, code reviews, and documentation.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%">
-      <h3>🔬 QA Intern &nbsp;·&nbsp; <em>App Wizards Technology</em></h3>
-      <p><code>Jan 2026 – Mar 2026</code></p>
-      <ul>
-        <li>Performed <strong>API testing</strong> using Postman, verifying endpoint responses and payloads.</li>
-        <li>Executed <strong>SQL queries</strong> to validate database integrity and data consistency.</li>
-        <li>Collaborated with developers on defect reporting and regression testing.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🏢 Application Developer Intern · *Mastek*
+`Jan 2024 – Jun 2024`
+- Developed and enhanced a **fitness membership management system** using Java and SQL.
+- Built and integrated **RESTful APIs** for seamless data exchange between services.
+- Optimized membership database, improving query performance significantly.
+- Participated in **Agile sprints**, code reviews, and documentation.
+
+### 🔬 QA Intern · *App Wizards Technology*
+`Jan 2026 – Mar 2026`
+- Performed **API testing** using Postman, verifying endpoint responses and payloads.
+- Executed **SQL queries** to validate database integrity and data consistency.
+- Collaborated with developers on defect reporting and regression testing.
 
 ---
 
