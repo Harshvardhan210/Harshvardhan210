@@ -138,12 +138,10 @@
 
 ## 🏆 Certifications
 
-| 🏅 Certificate | Platform | Year |
-|---|---|---|
-| **Java (Basic)** | HackerRank | 2025 |
-| **Spring Framework for Java Development** | Coursera | 2020 |
-| **JPMorgan Chase Software Engineering Job Simulation** | Forage | 2026 |
-| **JavaScript 20 Projects in 20 Days** | Udemy | 2022 |
+- 🏅 **Java (Basic)** &mdash; *HackerRank (2025)*
+- 🏅 **Spring Framework for Java Development** &mdash; *Coursera (2020)*
+- 🏅 **JPMorgan Chase Software Engineering Job Simulation** &mdash; *Forage (2026)*
+- 🏅 **JavaScript 20 Projects in 20 Days** &mdash; *Udemy (2022)*
 
 ---
 
