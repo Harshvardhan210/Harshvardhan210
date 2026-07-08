@@ -149,12 +149,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harshvardhan210&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=818cf8&text_color=e2e8f0&cache_seconds=1800" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harshvardhan210&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=818cf8&text_color=e2e8f0&cache_seconds=1800&hide=stars,issues,prs,contribs" height="165" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harshvardhan210&layout=compact&theme=transparent&hide_border=true&title_color=6366f1&text_color=e2e8f0&cache_seconds=1800" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshvardhan210&theme=tokyonight&hide_border=true&background=0f172a&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" width="70%" />
 
 </div>
 
