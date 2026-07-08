@@ -145,16 +145,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Harshvardhan210&theme=tokyonight&hide_border=true&bg_color=0f172a" height="165" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harshvardhan210&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&cache_seconds=1800" height="165" />
-
-</div>
-
----
 
 <div align="center">
 
